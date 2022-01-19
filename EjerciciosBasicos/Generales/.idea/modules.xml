@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Generales.iml" filepath="$PROJECT_DIR$/.idea/Generales.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cadenasDeTextoDistintas/cadenasDeTextoDistintas.iml" filepath="$PROJECT_DIR$/cadenasDeTextoDistintas/cadenasDeTextoDistintas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cantidadComidaPerro/cantidadComidaPerro.iml" filepath="$PROJECT_DIR$/cantidadComidaPerro/cantidadComidaPerro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/comparando/comparando.iml" filepath="$PROJECT_DIR$/comparando/comparando.iml" />
+      <module fileurl="file://$PROJECT_DIR$/estructurasDeControl/estructurasDeControl.iml" filepath="$PROJECT_DIR$/estructurasDeControl/estructurasDeControl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/funcionDivisible/funcionDivisible.iml" filepath="$PROJECT_DIR$/funcionDivisible/funcionDivisible.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ingresoDatos/ingresoDatos.iml" filepath="$PROJECT_DIR$/ingresoDatos/ingresoDatos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/maximoEntre3numeros/maximoEntre3numeros.iml" filepath="$PROJECT_DIR$/maximoEntre3numeros/maximoEntre3numeros.iml" />
+      <module fileurl="file://$PROJECT_DIR$/numerosPrimos/numerosPrimos.iml" filepath="$PROJECT_DIR$/numerosPrimos/numerosPrimos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/piedraPapelTijera/piedraPapelTijera.iml" filepath="$PROJECT_DIR$/piedraPapelTijera/piedraPapelTijera.iml" />
+      <module fileurl="file://$PROJECT_DIR$/primerosNumerosPrimos/primerosNumerosPrimos.iml" filepath="$PROJECT_DIR$/primerosNumerosPrimos/primerosNumerosPrimos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sueldoSemanal/sueldoSemanal.iml" filepath="$PROJECT_DIR$/sueldoSemanal/sueldoSemanal.iml" />
+    </modules>
+  </component>
+</project>
